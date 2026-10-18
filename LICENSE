@@ -1,0 +1,55 @@
+xiangwriter Personal Use License (Non-Commercial)
+
+Copyright (c) 2026 xiangwriter. All rights reserved.
+
+This software, including its source code, documentation, assets and any
+associated files (the "Software"), is made available for personal,
+non-commercial use only. It is source-available, but it is not open-source
+software.
+
+PERMITTED USE
+
+Subject to the terms below, you may:
+  - view and download the Software;
+  - run the Software for your own personal, non-commercial projects;
+  - modify the Software for your own personal, non-commercial use.
+
+COMMERCIAL USE
+
+Any commercial use is prohibited without a separate, written commercial
+license from xiangwriter. This includes, without limitation:
+  - use in or for a business, studio, agency, client project or paid service;
+  - inclusion in a product or service that is sold, licensed, monetized or
+    used to generate revenue;
+  - internal business use, SaaS, hosted services, paid training or paid
+    distribution.
+
+To request a commercial license, contact xiangwriter through GitHub
+(https://github.com/xiangwriter-dev) or open a "Commercial license request"
+issue in the official repository. See COMMERCIAL.md for the current contact
+path.
+
+RESTRICTIONS
+
+You may not:
+  - redistribute, publish, sublicense, sell, rent or otherwise make the
+    Software or a modified version available to any third party without prior
+    written permission from xiangwriter;
+  - remove or alter this license, copyright notices, or the xiangwriter
+    branding;
+  - claim authorship of the Software or use the xiangwriter name or mark in a
+    way that suggests endorsement without permission.
+
+No rights are granted except those expressly stated above.
+
+NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This license is not legal advice. For commercial or high-risk use, obtain
+professional legal advice and a separate written license from xiangwriter.

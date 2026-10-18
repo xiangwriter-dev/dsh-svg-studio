@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="xiangwriter">
+  <title>xiangwriter</title>
+  <rect width="64" height="64" rx="18" fill="#30203a"/>
+  <path d="M32 13l4.4 12.1L49 32l-12.6 4.4L32 49l-4.4-12.6L15 32l12.6-6.9L32 13Z" fill="#ffcf8b"/>
+  <circle cx="52" cy="14" r="3.2" fill="#7ad8ee"/>
+  <circle cx="12" cy="51" r="2.1" fill="#ff9fc2"/>
+</svg>

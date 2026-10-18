@@ -1,0 +1,72 @@
+{
+  "name": "dsh-xiangwriter-svg-studio",
+  "version": "1.0.1",
+  "description": "A local-first SVG vectorization studio for DeepSeek Harness: image plus prompt to a pure, layered SVG. Personal, non-commercial use only; commercial licensing on request from xiangwriter.",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "private": true,
+  "author": {
+    "name": "xiangwriter",
+    "url": "https://github.com/xiangwriter-dev"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "svg",
+    "vectorization",
+    "image-tracing",
+    "image-to-svg",
+    "xiangwriter",
+    "personal-use",
+    "non-commercial"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangwriter-dev/dsh-xiangwriter-svg-studio.git"
+  },
+  "homepage": "https://github.com/xiangwriter-dev/dsh-xiangwriter-svg-studio#readme",
+  "bugs": {
+    "url": "https://github.com/xiangwriter-dev/dsh-xiangwriter-svg-studio/issues"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "skill.md",
+    "engine/svg_engine.py",
+    "engine/requirements.txt",
+    "assets",
+    "locale/*.json",
+    "icon.svg",
+    "README.md",
+    "README.zh-CN.md",
+    "LICENSE",
+    "COMMERCIAL.md",
+    "CHANGELOG.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "node --check index.js && node --check client.js",
+    "check:engine": "python -m py_compile engine/svg_engine.py",
+    "test": "python tests/smoke_engine.py"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": []
+    }
+  }
+}

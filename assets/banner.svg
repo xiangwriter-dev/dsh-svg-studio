@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="SVG Studio by xiangwriter — personal, non-commercial use only">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f1828"/>
+      <stop offset="0.55" stop-color="#2b1b35"/>
+      <stop offset="1" stop-color="#162b38"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd6e2"/>
+      <stop offset="0.55" stop-color="#ff9fc2"/>
+      <stop offset="1" stop-color="#7ad8ee"/>
+    </linearGradient>
+    <linearGradient id="ice" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffd6e2"/>
+      <stop offset="1" stop-color="#7ad8ee"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff9fc2" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#ff9fc2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7ad8ee" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#7ad8ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="340" fill="url(#bg)"/>
+  <circle cx="1070" cy="60" r="260" fill="url(#glow2)"/>
+  <circle cx="980" cy="310" r="300" fill="url(#glow)"/>
+  <path d="M760 0c120 50 150 118 322 128 108 6 164-20 198-42" fill="none" stroke="#ff9fc2" stroke-opacity=".14" stroke-width="1.5"/>
+  <path d="M735 0c95 92 82 166 280 198 132 22 204 4 265-28" fill="none" stroke="#7ad8ee" stroke-opacity=".12" stroke-width="1.2"/>
+  <g fill="none" stroke="#ffd6e2" stroke-opacity=".18">
+    <circle cx="118" cy="82" r="4" fill="#ff9fc2" fill-opacity=".5"/>
+    <circle cx="118" cy="82" r="11"/>
+    <circle cx="118" cy="82" r="19"/>
+  </g>
+
+  <g transform="translate(72 78)">
+    <rect width="132" height="132" rx="32" fill="#30203a" stroke="#fff8f0" stroke-opacity=".16"/>
+    <path d="M40 27h53l25 25v54a10 10 0 0 1-10 10H40a10 10 0 0 1-10-10V37a10 10 0 0 1 10-10Z" fill="#fff8f0"/>
+    <path d="M93 27v25h25" fill="#ffd9e4"/>
+    <path d="M52 92c11-5 16-14 20-28 4 14 9 23 20 28-11 5-16 12-20 24-4-12-9-19-20-24Z" fill="url(#pink)"/>
+    <circle cx="57" cy="57" r="6" fill="#7ad8ee"/>
+    <circle cx="96" cy="73" r="4.6" fill="#ff9fc2"/>
+    <g transform="translate(89 90)">
+      <circle cx="17" cy="17" r="17" fill="#241a2c" stroke="#ffcf8b" stroke-opacity=".7"/>
+      <path d="M17 5l3.1 8.9L29 17l-8.9 3.1L17 29l-3.1-8.9L5 17l8.9-3.1L17 5Z" fill="#ffcf8b"/>
+      <circle cx="28" cy="6" r="2.5" fill="#7ad8ee"/>
+    </g>
+  </g>
+
+  <g transform="translate(258 92)">
+    <text x="0" y="0" fill="#ffd6e2" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="4">A DEEPSEEK HARNESS PLUGIN</text>
+    <text x="0" y="83" fill="#fff8f0" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="74" font-weight="750" letter-spacing="-2.5">SVG Studio</text>
+    <text x="2" y="121" fill="#cbb9c8" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="400">Image + prompt to a pure, layered SVG.</text>
+    <g transform="translate(2 152)">
+      <rect width="180" height="34" rx="17" fill="#ff9fc2" fill-opacity=".1" stroke="#ff9fc2" stroke-opacity=".24"/>
+      <g transform="translate(12 9)" fill="none">
+        <path d="M8 1l1.7 4.3L14 7l-4.3 1.7L8 13l-1.7-4.3L2 7l4.3-1.7L8 1Z" fill="#ffcf8b" stroke="none"/>
+        <circle cx="14.5" cy="1.5" r="1.1" fill="#7ad8ee" stroke="none"/>
+      </g>
+      <text x="38" y="22" fill="#ffd6e2" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="650" letter-spacing=".4">by xiangwriter</text>
+    </g>
+    <text x="2" y="214" fill="#ffcf8b" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.1">PERSONAL USE ONLY · COMMERCIAL LICENSE ON REQUEST</text>
+    <text x="2" y="232" fill="#8f7f95" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" letter-spacing=".3">dsh-xiangwriter-svg-studio</text>
+  </g>
+
+  <g transform="translate(902 236)" fill="none" stroke-linecap="round">
+    <path d="M0 0c44-54 68 54 112 0s70 56 116 4" stroke="#ff9fc2" stroke-opacity=".55" stroke-width="1.8"/>
+    <path d="M0 24c52-38 72 44 118 0s70 44 108 6" stroke="#7ad8ee" stroke-opacity=".45" stroke-width="1.4"/>
+    <circle cx="112" cy="0" r="3.5" fill="#ffcf8b" stroke="none"/>
+    <circle cx="228" cy="4" r="2.8" fill="#7ad8ee" stroke="none"/>
+  </g>
+</svg>
